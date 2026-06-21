@@ -9,3 +9,11 @@
 [Sun Jun 21 14:12:04 2026] === SERC Mini-OS GTK Started === (this GUI is real Unix process PID 1967)
 [Sun Jun 21 14:12:04 2026] Memory initialised: 5 blocks, 512 MB total
 [Sun Jun 21 14:12:04 2026] Filesystem ready: ./serc_records/ directory available
+[Sun Jun 21 15:21:50 2026] === SERC Mini-OS GTK Started === (this GUI is real Unix process PID 531)
+[Sun Jun 21 15:21:50 2026] Memory initialised: 5 blocks, 512 MB total
+[Sun Jun 21 15:21:50 2026] Filesystem ready: ./serc_records/ directory available
+[Sun Jun 21 15:22:16 2026] Process created: PID=1  Name=Ambulance Dispatch  Priority=1  Burst=20ms
+[Sun Jun 21 15:22:38 2026] Memory allocated: Block 1 (128 MB) -> PID 1  [First Fit]
+[Sun Jun 21 15:22:52 2026] Priority ran PID=1 as REAL OS process (kernel pid=624, ran for 20ms)
+[Sun Jun 21 15:41:16 2026] ERROR: IPC message cannot be empty
+[Sun Jun 21 15:41:19 2026] ERROR: IPC message cannot be empty
