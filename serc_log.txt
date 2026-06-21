@@ -1,0 +1,11 @@
+[Sun Jun 21 01:11:50 2026] Log cleared.
+[Sun Jun 21 01:27:34 2026] ERROR: IPC message cannot be empty
+[Sun Jun 21 01:27:37 2026] ERROR: IPC message cannot be empty
+[Sun Jun 21 01:27:38 2026] ERROR: IPC message cannot be empty
+[Sun Jun 21 01:28:50 2026] Process created: PID=1  Name=Ambulance Dispatch  Priority=1  Burst=30ms
+[Sun Jun 21 01:29:01 2026] ERROR: Select a process first
+[Sun Jun 21 01:29:16 2026] Priority ran PID=1 as REAL OS process (kernel pid=1781, ran for 30ms)
+[Sun Jun 21 01:29:28 2026] ERROR: IPC message cannot be empty
+[Sun Jun 21 14:12:04 2026] === SERC Mini-OS GTK Started === (this GUI is real Unix process PID 1967)
+[Sun Jun 21 14:12:04 2026] Memory initialised: 5 blocks, 512 MB total
+[Sun Jun 21 14:12:04 2026] Filesystem ready: ./serc_records/ directory available

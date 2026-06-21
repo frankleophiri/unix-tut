@@ -5,10 +5,11 @@
 
 
 
+
 int main (int argc, char* argv[]) {
 
-    printf("You typed %d things\n", argc);
-    printf("\nFirst thing: %s", argv[1]);
-
+    int id = fork();
+    printf("Initiate Extrapolation\n");
+   
     return 0;
 }

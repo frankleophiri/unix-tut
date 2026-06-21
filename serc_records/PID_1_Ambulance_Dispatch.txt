@@ -1,0 +1,8 @@
+SERC Emergency Task Record
+--------------------------
+PID:       1
+Name:      Ambulance Dispatch
+Priority:  1
+Burst:     30 ms
+Arrival:   0 ms
+Memory:    64 MB
